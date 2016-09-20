@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.exe.config
+C:\Users\DELL\Desktop\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.exe
+C:\Users\DELL\Desktop\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.pdb
+C:\Users\DELL\Desktop\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.exe
+C:\Users\DELL\Desktop\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.pdb
