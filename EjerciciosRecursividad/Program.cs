@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EjerciciosdeRecursividad
+namespace EjerciciosRecursividad
 {
     class Program
     {
-        
         static void Main(string[] args)
         {
             Recursividad ejercicios = new Recursividad();
@@ -42,8 +41,8 @@ namespace EjerciciosdeRecursividad
             {
                 Console.WriteLine("El número [" + numero + "] no es primo");
             }
-
+ 
             Console.ReadLine();
-        }     
+        }
     }
 }

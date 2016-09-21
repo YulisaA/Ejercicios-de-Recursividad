@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ResolucionParcial1
+namespace EjerciciosRecursividad
 {
     class Recursividad
     {
@@ -14,10 +14,10 @@ namespace ResolucionParcial1
             {
                 return true;
             }
-            if(P.Length == 2)
+            if (P.Length == 2)
             {
                 if (P[0] == P[1])
-                    return true; 
+                    return true;
             }
             if (P[0] == P[P.Length - 1])
                 return Pal(P.Substring(1, P.Length - 2));
